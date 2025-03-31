@@ -1,0 +1,24 @@
+dt,doc_id,item,category,amount,price,discount
+30-03-25,112lDbrxA,Постельное белье,household_chemicals,4,1800,6
+30-03-25,112XxIrRD,Лампочка теплый свет,textile,2,99,0
+30-03-25,112PfgSzZ,Грунт,textile,5,550,5
+30-03-25,112EopR4D,Тарелка,textile,5,300,5
+30-03-25,1120voLE6,Светильник,textile,1,3680,9
+30-03-25,11276To4Z,Грунт,textile,5,550,10
+30-03-25,1120ykBlQ,Коврик для ванной,cookware,1,450,5
+30-03-25,112mAH7i0,Лампочка теплый свет,cookware,3,99,3
+30-03-25,112EB7qts,Тарелка,cookware,1,300,6
+30-03-25,112oMCKqy,Светильник,cookware,5,3680,3
+30-03-25,112p60Pem,Садовый шланг,electrical_items,6,2890,9
+30-03-25,112dSGXTc,Батарейки AAA,electrical_items,3,450,0
+30-03-25,1126WbaEv,Молоток,electrical_items,2,845,3
+30-03-25,112K059hR,Батарейки AAA,electrical_items,2,450,6
+30-03-25,112gINUTt,Постельное белье,electrical_items,2,1800,1
+30-03-25,112vtnu4E,Жидкость для мытья посуды,electrical_items,3,60,1
+30-03-25,112dlTvPg,Сковорода,garden_supplies,4,1060,9
+30-03-25,1125zDuR0,Столовые приборы,garden_supplies,5,999,9
+30-03-25,112LArOF5,Рабочие перчатки,garden_supplies,5,140,6
+30-03-25,112Mie7Gc,Полотенце,garden_supplies,3,500,7
+30-03-25,112Yb1q69,Лейка,work_items,1,780,3
+30-03-25,112vxqJiC,Полотенце,work_items,5,500,8
+30-03-25,112vQgT3F,Лопата,work_items,3,998,6

@@ -1,0 +1,24 @@
+dt,doc_id,item,category,amount,price,discount
+30-03-25,41fA7CwU,Молоток,household_chemicals,6,845,1
+30-03-25,41vMKnWx,Лампочка теплый свет,household_chemicals,2,99,3
+30-03-25,41VtInYb,Сковорода,household_chemicals,1,1060,3
+30-03-25,41cHe85j,Порошок,textile,6,715,9
+30-03-25,41GZUn9q,Постельное белье,textile,3,1800,6
+30-03-25,41OWlzMv,Постельное белье,textile,6,1800,4
+30-03-25,41tG2syS,Садовый шланг,textile,1,2890,9
+30-03-25,41zlg4Wk,Коврик для ванной,textile,1,450,3
+30-03-25,41wspYgi,Лейка,cookware,1,780,2
+30-03-25,41v7eXid,Жидкость для мытья посуды,cookware,4,60,3
+30-03-25,41TYUsGN,Светильник,electrical_items,6,3680,7
+30-03-25,41Lc50Hx,Контейнер,electrical_items,4,250,2
+30-03-25,41RwjyYT,Грунт,electrical_items,5,550,3
+30-03-25,41cG3AOw,Порошок,electrical_items,6,715,6
+30-03-25,41A0YkIW,Батарейки AA,electrical_items,6,470,4
+30-03-25,41g5Td3v,Лампочка теплый свет,garden_supplies,5,99,9
+30-03-25,41PxV6cw,Батарейки AA,garden_supplies,1,470,5
+30-03-25,41rZPhEF,Молоток,garden_supplies,2,845,9
+30-03-25,41shEZ54,Лейка,garden_supplies,4,780,5
+30-03-25,4171ySkK,Плоскогубцы,work_items,5,670,6
+30-03-25,41PZT9lk,Полотенце,work_items,2,500,9
+30-03-25,411M4PyE,Постельное белье,work_items,3,1800,2
+30-03-25,41gcLbSr,Лопата,work_items,1,998,8

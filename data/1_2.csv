@@ -1,0 +1,24 @@
+dt,doc_id,item,category,amount,price,discount
+30-03-25,126A5gDG,Рабочие перчатки,household_chemicals,2,140,2
+30-03-25,12LwIRdl,Рабочие перчатки,household_chemicals,3,140,4
+30-03-25,12abkl5A,Кастрюля,textile,2,1456,1
+30-03-25,12N1unL4,Батарейки AAA,textile,4,450,5
+30-03-25,12t4Qg1c,Рабочие перчатки,textile,1,140,10
+30-03-25,12wKpkI4,Светильник,cookware,4,3680,0
+30-03-25,12THZyet,Постельное белье,cookware,2,1800,4
+30-03-25,12vBUCzX,Порошок,cookware,1,715,2
+30-03-25,12YPi6Lb,Лампочка белый свет,cookware,4,105,0
+30-03-25,12wh8qaV,Тарелка,electrical_items,3,300,9
+30-03-25,12UMgbC7,Семена,electrical_items,4,140,8
+30-03-25,123pneca,Рабочие перчатки,electrical_items,5,140,8
+30-03-25,12EyLMKC,Рабочие перчатки,electrical_items,3,140,2
+30-03-25,121nBiON,Семена,garden_supplies,1,140,6
+30-03-25,12MIsiE8,Постельное белье,garden_supplies,4,1800,8
+30-03-25,12fl7EOq,Жидкость для мытья посуды,garden_supplies,5,60,4
+30-03-25,12gisrFC,Кастрюля,garden_supplies,3,1456,9
+30-03-25,12W6aS0r,Батарейки AA,work_items,3,470,1
+30-03-25,121kYOl9,Молоток,work_items,2,845,3
+30-03-25,12m8QZhF,Грунт,work_items,4,550,8
+30-03-25,12t9MO3u,Садовый шланг,work_items,5,2890,9
+30-03-25,12x92TV3,Полотенце,work_items,3,500,10
+30-03-25,12DkuQ0n,Столовые приборы,work_items,6,999,9

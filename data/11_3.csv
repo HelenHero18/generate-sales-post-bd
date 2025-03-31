@@ -1,0 +1,24 @@
+dt,doc_id,item,category,amount,price,discount
+30-03-25,113RngFlE,Порошок,household_chemicals,3,715,4
+30-03-25,113Cx4ZUm,Лампочка теплый свет,household_chemicals,6,99,4
+30-03-25,113bKTAZ9,Грунт,household_chemicals,6,550,6
+30-03-25,113pH75EK,Грунт,household_chemicals,6,550,0
+30-03-25,1136Nqn32,Лампочка теплый свет,household_chemicals,1,99,0
+30-03-25,113lVHF3g,Постельное белье,textile,2,1800,5
+30-03-25,113R5d7ns,Кастрюля,textile,3,1456,8
+30-03-25,113skR8qN,Полотенце,textile,2,500,9
+30-03-25,113PDv1o2,Жидкость для мытья посуды,textile,6,60,9
+30-03-25,113A69eub,Жидкость для мытья посуды,cookware,6,60,8
+30-03-25,113gDZwc1,Плоскогубцы,cookware,6,670,0
+30-03-25,113Nbey3F,Плоскогубцы,cookware,1,670,6
+30-03-25,113nyJcxz,Кастрюля,cookware,4,1456,2
+30-03-25,113spgLNt,Плоскогубцы,cookware,4,670,7
+30-03-25,113Iqm2cv,Лейка,electrical_items,6,780,7
+30-03-25,113Dovqcx,Тарелка,electrical_items,3,300,5
+30-03-25,113TCkZVo,Лампочка теплый свет,electrical_items,2,99,5
+30-03-25,113xhHEjB,Тарелка,garden_supplies,2,300,9
+30-03-25,113Ug7Fon,Порошок,garden_supplies,3,715,7
+30-03-25,11398YzqO,Полотенце,garden_supplies,5,500,2
+30-03-25,113tApHqX,Жидкость для мытья посуды,work_items,2,60,6
+30-03-25,113Z5A7U9,Постельное белье,work_items,1,1800,1
+30-03-25,1130QmxdU,Тарелка,work_items,2,300,8

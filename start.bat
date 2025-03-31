@@ -1,0 +1,1 @@
+C:\Auto-practice\venv\scripts\python.exe C:\Auto-practice\generate_shops.py 
